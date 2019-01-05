@@ -1,3 +1,5 @@
+<link href='http://salemimhit.com/feed.xml' rel='alternate' type='application/atom+xml'>
+
 ## The Lost Episode: RE : Retcon 
 <audio controls="controls">
 	<source src="http://archive.org/download/SalemImHit2/sihrefinallostepisode.mp3" type="audio/mpeg">
