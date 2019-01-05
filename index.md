@@ -12,7 +12,7 @@
 
 Amber and Tony saw the final Resident Evil movie. Amber started editing the episode, got sick and falsely assumed that she uploaded it. Amber is very sorry.
 
-**Apr 6, 2017
+** Apr 6, 2017
 
 
 
@@ -27,7 +27,7 @@ Amber and Tony saw the final Resident Evil movie. Amber started editing the epis
 
 Amber and Tony saw the Assassin’s Creed Movie...in a weirdly packed theater.
 
-**Dec 28, 2016
+** Dec 28, 2016
 
 
 
@@ -43,7 +43,7 @@ Amber and Tony saw the Assassin’s Creed Movie...in a weirdly packed theater.
 
 Amber and Tony saw Suicide Squad, the most expensive B-Movie, ever.
 
-**Sep 1, 2016
+** Sep 1, 2016
 
 
 
@@ -53,7 +53,7 @@ Amber and Tony saw Suicide Squad, the most expensive B-Movie, ever.
 
 Amber and Tony discuss the end of [POI](http://imdb.com/title/tt1839578). There is also a reference to the [Bones episode that hurt](http://www.themarysue.com/malware-uploaded-from-bone-bones/) and how trapped in VR will haunt our nightmares. [Hanna](http://www.imdb.com/title/tt0993842/?ref_=fn_al_tt_2) was awesome though.
 
-Jul 7, 2016
+**Jul 7, 2016
 
 
 
