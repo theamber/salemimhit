@@ -3,34 +3,47 @@
 
 
 ## The Lost Episode: RE : Retcon 
+
 <audio controls="controls">
 	<source src="http://archive.org/download/SalemImHit2/sihrefinallostepisode.mp3" type="audio/mpeg">
 </audio>
+
 [Download](http://archive.org/download/SalemImHit2/sihrefinallostepisode.mp3)
 
 Amber and Tony saw the final Resident Evil movie. Amber started editing the episode, got sick and falsely assumed that she uploaded it. Amber is very sorry.
 
-Apr 6, 2017
+**Apr 6, 2017
 
 
 
 
 ## Xmas Assassin’s Creed Movie Special
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/xmassspecial.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/xmassspecial.mp3)
 
 Amber and Tony saw the Assassin’s Creed Movie...in a weirdly packed theater.
 
-Dec 28, 2016
+**Dec 28, 2016
 
 
 
 
 ## Episode 210: Suicide Squad Suffices 
+
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit210.mp3" type="audio/mpeg">
+</audio>
+
 [Download ](http://archive.org/download/SalemImHit2/salemimhit210.mp3)
 
 Amber and Tony saw Suicide Squad, the most expensive B-Movie, ever.
 
-Sep 1, 2016
+**Sep 1, 2016
 
 
 
