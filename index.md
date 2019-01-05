@@ -1,5 +1,5 @@
 <link href='http://salemimhit.com/feed.xml' rel='alternate' type='application/atom+xml'>
-<script src=”http://mediaplayer.yahoo.com/js” type=”text/javascript”></script>
+<script type=’text/javascript’ src=”http://mediaplayer.yahoo.com/js” ></script>
 
 
 ## The Lost Episode: RE : Retcon 
