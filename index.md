@@ -1,4 +1,7 @@
 ## The Lost Episode: RE : Retcon 
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/sihrefinallostepisode.mp3" type="audio/mpeg">
+</audio>
 [Download](http://archive.org/download/SalemImHit2/sihrefinallostepisode.mp3)
 
 Amber and Tony saw the final Resident Evil movie. Amber started editing the episode, got sick and falsely assumed that she uploaded it. Amber is very sorry.
