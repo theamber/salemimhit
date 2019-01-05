@@ -1,3 +1,183 @@
+## The Lost Episode: RE : Retcon 
+[Download](http://archive.org/download/SalemImHit2/sihrefinallostepisode.mp3)
+
+Amber and Tony saw the final Resident Evil movie. Amber started editing the episode, got sick and falsely assumed that she uploaded it. Amber is very sorry.
+
+Apr 6, 2017
+
+
+
+
+## Xmas Assassin’s Creed Movie Special
+[Download](http://archive.org/download/SalemImHit2/xmassspecial.mp3)
+
+Amber and Tony saw the Assassin’s Creed Movie...in a weirdly packed theater.
+
+Dec 28, 2016
+
+
+
+
+## Episode 210: Suicide Squad Suffices 
+[Download ](http://archive.org/download/SalemImHit2/salemimhit210.mp3)
+
+Amber and Tony saw Suicide Squad, the most expensive B-Movie, ever.
+
+Sep 1, 2016
+
+
+
+
+## Episode 209: That’s The End? 
+[Download](http://archive.org/download/SalemImHit2/salemimhit209.mp3)
+
+Amber and Tony discuss the end of [POI](http://imdb.com/title/tt1839578). There is also a reference to the [Bones episode that hurt](http://www.themarysue.com/malware-uploaded-from-bone-bones/) and how trapped in VR will haunt our nightmares. [Hanna](http://www.imdb.com/title/tt0993842/?ref_=fn_al_tt_2) was awesome though.
+
+Jul 7, 2016
+
+
+
+
+## Episode 208: B.S. BvS 
+[Download](http://archive.org/download/SalemImHit2/salemimhit208.mp3)
+
+Amber and Tony took one for the team and saw Batman v Superman.
+
+They will also never buy Jolly Ranchers ever again.
+
+Apr 1, 2016
+
+
+
+
+## Episode 207: Shu’s New 
+[Download](http://archive.org/download/SalemImHit2/salemimhit207.mp3)
+
+Amber, Tony, and Shu laugh at dragons, zombies, and Torchwood Miracle Day.
+
+Randy Savage Dragons
+[https://www.youtube.com/watch?v=QlJULk0f9xA](https://www.youtube.com/watch?v=QlJULk0f9xA)
+
+Thomas the Train Dragons
+[https://www.youtube.com/watch?v=yNaTZV8qS1I](https://www.youtube.com/watch?v=yNaTZV8qS1I)
+
+Fallout 4 console mods
+[http://www.cnet.com/news/fallout-4-xbox-oneps4-mod-news-coming-soon-dev-says/](http://www.cnet.com/news/fallout-4-xbox-oneps4-mod-news-coming-soon-dev-says/)
+
+Lost ending puppy dream
+[https://www.youtube.com/watch?v=iXIOA_sgZoo](https://www.youtube.com/watch?v=iXIOA_sgZoo)
+
+Feb 2, 2016
+
+
+
+
+## Episode 206: Made You Look
+[Download](http://archive.org/download/SalemImHit2/salemimhit206.mp3)&nbsp; 
+
+Amber and Tony discuss the Battfleck Daredevil "coincidence" and then ramble about Bats and Daredevils. Keaton vs Conroy 2016.
+
+The Daredevil Scene - https://youtu.be/gAsNhsXqYAQ?t=16m30s
+
+Kevin Conroy is Batman - https://www.youtube.com/watch?v=nYCVnWStLrg
+
+Jan 20, 2016
+
+
+
+
+## Episode 205: Can’t Get Fired
+[Download](http://archive.org/download/SalemImHit2/salemimhit205.mp3)
+
+Amber and Tony discuss superheroes and the other guys. 
+
+Superjail parade of violence - http://www.adultswim.com/videos/playlists/parade-of-violence/the-mutant-menace/
+
+Why do we have to keep seeing his parents die in the first 5 minutes?
+Batmans parents dying the supercut - https://www.youtube.com/watch?v=jtpxEmInvfg
+
+Gotham dont give a damn about batman
+
+Garrison trying to get fired - http://southpark.cc.com/clips/153736/lemmiwinks-adventure-begins
+
+The superman episode - http://salemimhit.tumblr.com/post/56090807737/episode-9-sorry-superman-download-amber-digs
+
+Smallville brought to you by ___ - http://smallville.wikia.com/wiki/Product_placement
+Acuvue to the rescue - https://www.youtube.com/watch?v=9mh6TNBwfhw
+
+Jan 13, 2016
+
+
+
+
+## Episode 204: Fake Fans
+[Download](http://archive.org/download/SalemImHit2/salemimhit204.mp3)
+
+Amber and Tony discuss the nonexistence of fake fans, and then ramble.
+
+SW: The Force Awakens
+Old Who vs New Who
+
+Amy Acker Rocks - [http://www.imdb.com/name/nm0009918/](http://www.imdb.com/name/nm0009918/)
+
+Suits is the nerdiest show on television
+
+Nostalgia Critic helped me see the light on the prequels - [https://www.youtube.com/watch?v=buXz4BYS8kw](https://www.youtube.com/watch?v=buXz4BYS8kw)
+
+Sith Jar Jar - [https://www.youtube.com/results?search_query=sith+jar+jar](https://www.youtube.com/results?search_query=sith+jar+jar)
+*Not Grevious -&gt; Dooku
+
+Jan 7, 2016
+
+
+
+
+## Episode 203: The Crushing Hand of Disappointment
+[Download](http://archive.org/download/SalemImHit2/salemimhit203.mp3)
+
+Some stuff just sucks, we know you also feel our pain. 
+
+The Shenmue cat - [https://www.youtube.com/watch?v=C5V_KAQa-hI](https://www.youtube.com/watch?v=C5V_KAQa-hI)
+
+Amber’s Sucker Punch Review - [http://amberspence.org/blog/swigs-of-sucker-punch/](http://amberspence.org/blog/swigs-of-sucker-punch/)
+
+[God of War 3 Extras: Motion Capture - https://www.youtube.com/watch?v=g0eCpEEkwf0](http://archive.org/download/SalemImHit2/salemimhit203.mp3)
+
+Dec 15, 2015
+
+
+
+
+## Episode 202: Machine Rambles
+[Download](http://archive.org/download/SalemImHit2/salemimhit202.mp3)
+
+We still welcome our new robot overlords, but we’re just whiny. 
+
+Code for hooker in Affleck’s trailer.
+[http://www.urbandictionary.com/define.php?term=10-82](http://www.urbandictionary.com/define.php?term=10-82)
+
+Buzzfeed phone guy
+[http://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr#.yuMyVGWyY](http://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr#.yuMyVGWyY)
+
+Nov 17, 2015
+
+
+
+
+## Episode 201: Whispers 
+[Download](http://archive.org/download/SalemImHit2/salemimhit201.mp3)
+
+Amber and Tony discuss the whispervoice.
+
+[http://www.destructoid.com/brown-hair-and-stubble-the-new-face-of-modern-videogames-178442.phtml](http://www.destructoid.com/brown-hair-and-stubble-the-new-face-of-modern-videogames-178442.phtml)
+
+dying light vs dead island
+https://www.youtube.com/watch?v=ud88RzwyfvI
+
+Nov 10, 2015
+
+
+
 ## The Change Up
 
 We were excited to bring in new episodes, but a job change and really unfortunate schedule conflicts have dashed those hopes. There are a few episodes that were left on the shelf and those should be up soon. 
