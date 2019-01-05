@@ -1,4 +1,6 @@
 <link href='http://salemimhit.com/feed.xml' rel='alternate' type='application/atom+xml'>
+<script src=”http://mediaplayer.yahoo.com/js” type=”text/javascript”></script>
+
 
 ## The Lost Episode: RE : Retcon 
 <audio controls="controls">
