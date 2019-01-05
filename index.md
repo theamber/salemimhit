@@ -10,9 +10,9 @@
 
 [Download](http://archive.org/download/SalemImHit2/sihrefinallostepisode.mp3)
 
-Amber and Tony saw the final Resident Evil movie. Amber started editing the episode, got sick and falsely assumed that she uploaded it. Amber is very sorry.
+Amber and Tony saw the final [Resident Evil](https://www.imdb.com/title/tt2592614/) movie. Amber started editing the episode, got sick and falsely assumed that she uploaded it. Amber is very sorry.
 
-**Apr 6, 2017**
+*Apr 6, 2017*
 
 
 
@@ -25,69 +25,79 @@ Amber and Tony saw the final Resident Evil movie. Amber started editing the epis
 
 [Download](http://archive.org/download/SalemImHit2/xmassspecial.mp3)
 
-Amber and Tony saw the Assassin’s Creed Movie...in a weirdly packed theater.
+Amber and Tony saw the [Assassin’s Creed](https://www.imdb.com/title/tt2094766/) Movie...in a weirdly packed theater.
 
-**Dec 28, 2016**
+*Dec 28, 2016*
 
 
 
 
 ## Episode 210: Suicide Squad Suffices 
 
-
 <audio controls="controls">
 	<source src="http://archive.org/download/SalemImHit2/salemimhit210.mp3" type="audio/mpeg">
 </audio>
 
-[Download ](http://archive.org/download/SalemImHit2/salemimhit210.mp3)
+[Download](http://archive.org/download/SalemImHit2/salemimhit210.mp3)
 
-Amber and Tony saw Suicide Squad, the most expensive B-Movie, ever.
+Amber and Tony saw [Suicide Squad](https://www.imdb.com/title/tt1386697/), the most expensive B-Movie, ever.
 
-**Sep 1, 2016**
+*Sep 1, 2016*
 
 
 
 
 ## Episode 209: That’s The End? 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit209.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit209.mp3)
 
 Amber and Tony discuss the end of [POI](http://imdb.com/title/tt1839578). There is also a reference to the [Bones episode that hurt](http://www.themarysue.com/malware-uploaded-from-bone-bones/) and how trapped in VR will haunt our nightmares. [Hanna](http://www.imdb.com/title/tt0993842/?ref_=fn_al_tt_2) was awesome though.
 
-**Jul 7, 2016**
+*Jul 7, 2016*
 
 
 
 
 ## Episode 208: B.S. BvS 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit208.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit208.mp3)
 
-Amber and Tony took one for the team and saw Batman v Superman.
+Amber and Tony took one for the team and saw [Batman v Superman](https://www.imdb.com/title/tt2975590/)
 
 They will also never buy Jolly Ranchers ever again.
 
-Apr 1, 2016
+*Apr 1, 2016*
 
 
 
 
 ## Episode 207: Shu’s New 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit207.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit207.mp3)
 
-Amber, Tony, and Shu laugh at dragons, zombies, and Torchwood Miracle Day.
+Amber, Tony, and Shu laugh at dragons, zombies, and [Torchwood Miracle Day](http://tardis.wikia.com/wiki/Series_4_(Torchwood)).
 
-Randy Savage Dragons
-[https://www.youtube.com/watch?v=QlJULk0f9xA](https://www.youtube.com/watch?v=QlJULk0f9xA)
+[Randy Savage Dragons](https://www.youtube.com/watch?v=QlJULk0f9xA)
 
-Thomas the Train Dragons
-[https://www.youtube.com/watch?v=yNaTZV8qS1I](https://www.youtube.com/watch?v=yNaTZV8qS1I)
+[Thomas the Train Dragons](https://www.youtube.com/watch?v=yNaTZV8qS1I)
 
-Fallout 4 console mods
-[http://www.cnet.com/news/fallout-4-xbox-oneps4-mod-news-coming-soon-dev-says/](http://www.cnet.com/news/fallout-4-xbox-oneps4-mod-news-coming-soon-dev-says/)
+[Fallout 4 Console Mods](http://www.cnet.com/news/fallout-4-xbox-oneps4-mod-news-coming-soon-dev-says/)
 
-Lost ending puppy dream
-[https://www.youtube.com/watch?v=iXIOA_sgZoo](https://www.youtube.com/watch?v=iXIOA_sgZoo)
+[Lost Ending Puppy Dream](https://www.youtube.com/watch?v=iXIOA_sgZoo)
 
-Feb 2, 2016
+*Feb 2, 2016*
 
 
 
@@ -97,11 +107,11 @@ Feb 2, 2016
 
 Amber and Tony discuss the Battfleck Daredevil "coincidence" and then ramble about Bats and Daredevils. Keaton vs Conroy 2016.
 
-The Daredevil Scene - https://youtu.be/gAsNhsXqYAQ?t=16m30s
+[The Daredevil Scene](https://youtu.be/gAsNhsXqYAQ?t=16m30s)
 
-Kevin Conroy is Batman - https://www.youtube.com/watch?v=nYCVnWStLrg
+[Kevin Conroy is Batman](https://www.youtube.com/watch?v=nYCVnWStLrg)
 
-Jan 20, 2016
+*Jan 20, 2016*
 
 
 
@@ -125,7 +135,7 @@ The superman episode - http://salemimhit.tumblr.com/post/56090807737/episode-9-s
 Smallville brought to you by ___ - http://smallville.wikia.com/wiki/Product_placement
 Acuvue to the rescue - https://www.youtube.com/watch?v=9mh6TNBwfhw
 
-Jan 13, 2016
+*Jan 13, 2016*
 
 
 
@@ -147,7 +157,7 @@ Nostalgia Critic helped me see the light on the prequels - [https://www.youtube.
 Sith Jar Jar - [https://www.youtube.com/results?search_query=sith+jar+jar](https://www.youtube.com/results?search_query=sith+jar+jar)
 *Not Grevious -&gt; Dooku
 
-Jan 7, 2016
+*Jan 7, 2016*
 
 
 
@@ -163,7 +173,7 @@ Amber’s Sucker Punch Review - [http://amberspence.org/blog/swigs-of-sucker-pun
 
 [God of War 3 Extras: Motion Capture - https://www.youtube.com/watch?v=g0eCpEEkwf0](http://archive.org/download/SalemImHit2/salemimhit203.mp3)
 
-Dec 15, 2015
+*Dec 15, 2015*
 
 
 
@@ -179,7 +189,7 @@ Code for hooker in Affleck’s trailer.
 Buzzfeed phone guy
 [http://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr#.yuMyVGWyY](http://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr#.yuMyVGWyY)
 
-Nov 17, 2015
+*Nov 17, 2015*
 
 
 
@@ -194,7 +204,7 @@ Amber and Tony discuss the whispervoice.
 dying light vs dead island
 https://www.youtube.com/watch?v=ud88RzwyfvI
 
-Nov 10, 2015
+*Nov 10, 2015*
 
 
 
@@ -207,10 +217,11 @@ I'm not sure about whether I'll continue the show solo or change up the format a
 ---Amber
 
 
-May 29, 2014
+*May 29, 2014*
 
 
 ## Episode 26: Because it's the Future 
+
 [** Download**](http://archive.org/download/SalemImHit2/salemimhit26.mp3)
 
 **The Back to the Future II rewatch**
