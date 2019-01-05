@@ -10,7 +10,8 @@ I'm not sure about whether I'll continue the show solo or change up the format a
 May 29, 2014
 
 
-## Episode 26: Because it's the Future -[** Download**](http://archive.org/download/SalemImHit2/salemimhit26.mp3)
+## Episode 26: Because it's the Future 
+[** Download**](http://archive.org/download/SalemImHit2/salemimhit26.mp3)
 
 **The Back to the Future II rewatch**
 
@@ -79,7 +80,8 @@ Who needs doorknobs?
 Mar 13, 2014
 
 
-## Episode 25: Are You Sure This Time? - [Download](http://archive.org/download/SalemImHit2/salemimhit25.mp3)
+## Episode 25: Are You Sure This Time?
+[Download](http://archive.org/download/SalemImHit2/salemimhit25.mp3)
 
 First person shooters
 
@@ -115,7 +117,8 @@ Mar 3, 2014
 
 
 
-## Episode 24: Nobody Puts Baby in the Corner - [Download](http://archive.org/download/SalemImHit2/salemimhit24.mp3)
+## Episode 24: Nobody Puts Baby in the Corner 
+[Download](http://archive.org/download/SalemImHit2/salemimhit24.mp3)
 
 Leonard got Star Wars wrong
 
@@ -143,8 +146,10 @@ More Star Wars
 Feb 26, 2014
 
 
-## Episode 23: 13 13 13&nbsp; -&nbsp;[Download
-](http://archive.org/download/Salemimhit/salemimhit23.mp3)We cranked the nerd up to 13 this time.
+## Episode 23: 13 13 13&nbsp; -&nbsp;
+[Download](http://archive.org/download/Salemimhit/salemimhit23.mp3)
+
+We cranked the nerd up to 13 this time.
 
 2013, The Thirteenth Doctor, Things that are Thirteeny
 
@@ -178,7 +183,8 @@ Jan 17, 2014
 
 
 
-## Episode 22: That's Not Good Enough Guys - [Download&nbsp;](http://archive.org/download/Salemimhit/salemimhit22.mp3)
+## Episode 22: That's Not Good Enough Guys - 
+[Download](http://archive.org/download/Salemimhit/salemimhit22.mp3)
 
 Sorry We Suck
 
@@ -230,7 +236,8 @@ Jan 13, 2014
 
 
 
-## Episode 21: Launchtime (The Munchies) - [Download](http://archive.org/download/Salemimhit/salemimhit21.mp3)
+## Episode 21: Launchtime (The Munchies)
+[Download](http://archive.org/download/Salemimhit/salemimhit21.mp3)
 
 Next Gen Launch issues
 
@@ -269,7 +276,8 @@ http://www.youtube.com/watch?v=96iJsdGkl44
 Jan 2, 2014
 
 
-## Episode 20: Sexy Monsters - [Download](http://archive.org/download/Salemimhit/salemimhit20.mp3)&nbsp;
+## Episode 20: Sexy Monsters
+[Download](http://archive.org/download/Salemimhit/salemimhit20.mp3)
 
 [Beauty and the Beast](http://en.wikipedia.org/wiki/Beauty_&amp;_the_Beast_(2012_TV_series))
 
@@ -303,7 +311,8 @@ Nov 11, 2013
 
 
 
-## Episode 19: The Last Starfighter - [Download](http://archive.org/download/Salemimhit/salemimhit19.mp3)
+## Episode 19: The Last Starfighter 
+[Download](http://archive.org/download/Salemimhit/salemimhit19.mp3)
 
 Ender's Game sounds like The Last Starfighter
 
@@ -332,7 +341,8 @@ Nov 5, 2013
 
 
 
-## Episode 18: Shows That Exist...Because - [Download](http://archive.org/download/Salemimhit/salemimhit18.mp3)
+## Episode 18: Shows That Exist...Because 
+[Download](http://archive.org/download/Salemimhit/salemimhit18.mp3)
 
 [Sleepy Hollow](http://en.wikipedia.org/wiki/Sleepy_Hollow_(TV_series))
 
@@ -356,7 +366,8 @@ Oct 28, 2013
 
 
 
-## Episode 17: The Brownlist - [Download](http://archive.org/download/Salemimhit/salemimhit17.mp3)
+## Episode 17: The Brownlist 
+[Download](http://archive.org/download/Salemimhit/salemimhit17.mp3)
 
 Amber and Tony played Splinter Cell Blacklist. ::sad face::
 
@@ -364,7 +375,8 @@ Oct 16, 2013
 
 
 
-## Episode 16: Bloody Sequels &nbsp;- [Download](http://archive.org/download/Salemimhit/salemimhit16.mp3)
+## Episode 16: Bloody Sequels
+[Download](http://archive.org/download/Salemimhit/salemimhit16.mp3)
 
 [Magic the Gathering free Xbox Live](http://www.ign.com/articles/2013/09/03/games-with-gold-september-2013-free-magic-2013-and-rainbow-six-vegas)
 
@@ -396,7 +408,8 @@ Sep 16, 2013
 
 
 
-## Episode 15: Fun Size - [Download](http://archive.org/download/Salemimhit/salemimhit15.mp3)
+## Episode 15: Fun Size
+[Download](http://archive.org/download/Salemimhit/salemimhit15.mp3)
 
 Short form vs long form storytelling
 
@@ -422,7 +435,8 @@ Sep 4, 2013
 
 
 
-## Episode 14: Riddle Me This, Batman - [Download](http://archive.org/download/Salemimhit/salemimhit14.mp3)
+## Episode 14: Riddle Me This, Batman 
+[Download](http://archive.org/download/Salemimhit/salemimhit14.mp3)
 
 Batman V Superman
 
@@ -455,7 +469,8 @@ Aug 25, 2013
 
 
 
-## Episode 13: Fucking Fandoms - [Download](http://archive.org/download/Salemimhit/salemimhit13.mp3)
+## Episode 13: F\*\cking Fandoms
+[Download](http://archive.org/download/Salemimhit/salemimhit13.mp3)
 
 Diversity of the Doctor
 
@@ -486,7 +501,8 @@ Aug 18, 2013
 
 
 
-## Episode 12: Fuck You, Defiance - [Download](http://archive.org/download/Salemimhit/salemimhit12.mp3 "SIH 12: Fuck You, Defiance")
+## Episode 12: F\*\ck You, Defiance
+[Download](http://archive.org/download/Salemimhit/salemimhit12.mp3 "SIH 12: Fuck You, Defiance")
 
 Multiscreen, multimedia, multiplatform - [Defiance](http://www.defiance.com/en/series/)
 
@@ -501,7 +517,8 @@ Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmix
 Aug 9, 2013
 
 
-## Episode 11: What! -&nbsp;[Download](http://archive.org/download/Salemimhit/salemimhit11.mp3)
+## Episode 11: What!
+[Download](http://archive.org/download/Salemimhit/salemimhit11.mp3)
 
 [12th Doctor Reveal on Sunday](http://doctorwhotv.co.uk/12th-doctor-revealed-on-sunday-52184.htm)&nbsp; - [Peter Capaldi](http://en.wikipedia.org/wiki/Peter_Capaldi)
 
@@ -514,7 +531,8 @@ Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmix
 Aug 3, 2013
 
 
-## Episode 10: Bloop - [Download](http://archive.org/download/Salemimhit/salemimhit10.mp3 "SIH Episode 10 - Bloop")
+## Episode 10: Bloop
+[Download](http://archive.org/download/Salemimhit/salemimhit10.mp3 "SIH Episode 10 - Bloop")
 
 There were some audio issues with this one and we had to edit some stuff out of the middle for personal reasons that would have transitioned the sections better. But, we salvaged the bulk of it
 
@@ -533,7 +551,8 @@ Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmix
 Aug 1, 2013
 
 
-## Episode 9: Sorry, Superman - [Download](http://archive.org/download/Salemimhit/salemimhit09.mp3)
+## Episode 9: Sorry, Superman
+[Download](http://archive.org/download/Salemimhit/salemimhit09.mp3)
 
 Amber digs [Orange is the New Black](http://en.wikipedia.org/wiki/Orange_Is_the_New_Black) - [Laverne Cox](http://www.lavernecox.com/)
 [Hemlock Grove](http://en.wikipedia.org/wiki/Hemlock_Grove_(TV_series)) was [meh](http://amberspence.org/blog/hemlock-grove-hems-and-haws/) - [vargulf](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CC0QFjAA&amp;url=http%3A%2F%2Fhemlockgrove.wikia.com%2Fwiki%2FVargulf&amp;ei=XWPsUZfrFMfd4AO7zYHQBg&amp;usg=AFQjCNE0aPp6ClpStrRqZOEIXP2e1uFrWg&amp;sig2=ee8Z_mMPGZH_BfkaPmCKpQ&amp;bvm=bv.49478099,d.dmg)
@@ -552,7 +571,8 @@ Jul 21, 2013
 
 
 
-## Episode 8: Um...Sharknado - [Download](http://archive.org/download/Salemimhit/salemimhit08.mp3)
+## Episode 8: Um...Sharknado
+[Download](http://archive.org/download/Salemimhit/salemimhit08.mp3)
 
 Amber and Tony were going to discuss something useful, but then Amber watched Sharknado.
 
@@ -568,7 +588,8 @@ Jul 12, 2013
 
 
 
-## Episode 7: All Celebrities Hate You - [Download](http://archive.org/download/Salemimhit/salemimhit07.mp3)
+## Episode 7: All Celebrities Hate You
+[Download](http://archive.org/download/Salemimhit/salemimhit07.mp3)
 
 Amber and Tony discuss dumb things some celebs do and how it seems BSG and Caprica should be consumed separately.
 
@@ -580,7 +601,8 @@ Jul 4, 2013
 
 
 
-## Episode 6: We Heart Orphan Black - [Download](http://archive.org/download/Salemimhit/salemimhit06.mp3)
+## Episode 6: We Heart Orphan Black
+[Download](http://archive.org/download/Salemimhit/salemimhit06.mp3)
 
 Amber and Tony talk about Xbox 1 hilarity and why [Orphan Black](http://www.bbcamerica.com/orphan-black/) is the best show on TV.
 
@@ -590,7 +612,8 @@ Jul 3, 2013
 
 
 
-## Episode 5: Wells V. Tapping - [Download](http://archive.org/download/Salemimhit/salemimhit05.mp3)
+## Episode 5: Wells V. Tapping 
+[Download](http://archive.org/download/Salemimhit/salemimhit05.mp3)
 
 [Stargate SG-1](http://en.wikipedia.org/wiki/Stargate_SG-1), [Star Trek](http://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture), [favorite stars](http://en.wikipedia.org/wiki/Amanda_Tapping), hell yeah.&nbsp;
 
@@ -599,7 +622,8 @@ Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmix
 Jun 18, 2013
 
 
-## Episode Four: Are you sure the light is off? - [Download](http://archive.org/download/Salemimhit/salemimhit04.mp3)
+## Episode Four: Are you sure the light is off?
+[Download](http://archive.org/download/Salemimhit/salemimhit04.mp3)
 
 Amber and Tony discuss the [Xbox One](http://www.xbox.com/en-US/xboxone/meet-xbox-one) without ever referencing it by name. Also, the uncanny valley and realism in games creeps Amber out.
 
@@ -617,7 +641,8 @@ Jun 5, 2013
 
 
 
-## Episode Three: Better Than Thor - [Download](http://archive.org/download/Salemimhit/salemimhit03.mp3)
+## Episode Three: Better Than Thor
+[Download](http://archive.org/download/Salemimhit/salemimhit03.mp3)
 
 Amber and Tony chat about sequels, reboots, and teenagers.
 
@@ -645,7 +670,8 @@ Apr. 27, 2013
 Apr. 11, 2013
 
 
-## Episode Two : Assassins of the Caribbean - [Download](http://archive.org/download/Salemimhit/salemimhit02.mp3)
+## Episode Two : Assassins of the Caribbean 
+[Download](http://archive.org/download/Salemimhit/salemimhit02.mp3)
 
 Amber and Tony discuss [Assassin's Creed 4: Black Flag](http://en.wikipedia.org/wiki/Assassin) and issues they had with the other recent AC games.&nbsp;
 
@@ -658,7 +684,8 @@ Apr. 11, 2013
 
 
 
-## Episode One: No Aggro - [Download](http://archive.org/download/Salemimhit/salemimhit01.mp3)
+## Episode One: No Aggro
+[Download](http://archive.org/download/Salemimhit/salemimhit01.mp3)
 
 Amber and Tony chat about their feelings on [Army of Two: The Devil's Cartel](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;ved=0CEIQFjAB&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArmy_of_Two%3A_The_Devil)
 
