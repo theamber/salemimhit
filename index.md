@@ -460,23 +460,19 @@ PS3 vs Xbox 360 graphical differences that we hope do not continue&nbsp;
 
 Blacklist exclusive missions
 
-Assassin's Creed 4
+[Assassin's Creed 4](http://assassinscreed.wikia.com/wiki/Assassin%27s_Creed_IV:_Black_Flag)
 
-Assassin's Creed Embers&nbsp;
+[Assassin's Creed Embers](http://www.youtube.com/watch?v=Z1geVEDN0IQ)
 
-http://www.youtube.com/watch?v=Z1geVEDN0IQ
+[Caucasians are just too damn big](http://www.youtube.com/watch?v=96iJsdGkl44)
 
-Caucasians are just too damn big
-
-http://www.youtube.com/watch?v=96iJsdGkl44
-
-Jan 2, 2014
+*Jan 2, 2014*
 
 
 ## Episode 20: Sexy Monsters
 
 <audio controls="controls">
-	<source src="http://archive.org/download/Salemimhit/salemimhit21.mp3" type="audio/mpeg">
+	<source src="http://archive.org/download/Salemimhit/salemimhit20.mp3" type="audio/mpeg">
 </audio>
 
 [Download](http://archive.org/download/Salemimhit/salemimhit20.mp3)
@@ -493,7 +489,7 @@ Walking Dead [new zombies](http://www.ibtimes.com/walking-dead-season-4-spoilers
 
 [Angel/Buffy](http://en.wikipedia.org/wiki/Angel_(Buffy_the_Vampire_Slayer))
 
-Sexy human monsters -&nbsp;
+Sexy human monsters 
 
 [Breaking Bad](http://en.wikipedia.org/wiki/Breaking_bad)
 
@@ -507,13 +503,18 @@ Frankenstein's Monster
 
 [Jennifer's body](http://en.wikipedia.org/wiki/Jennifer%27s_Body)
 
-[Drones EP&nbsp;](http://amberspence.bandcamp.com/album/drones)
+[Drones EP](http://amberspence.bandcamp.com/album/drones)
 
-Nov 11, 2013
+*Nov 11, 2013*
 
 
 
 ## Episode 19: The Last Starfighter 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit19.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit19.mp3)
 
 Ender's Game sounds like The Last Starfighter
@@ -538,12 +539,17 @@ Ok, [Almost Human](http://en.wikipedia.org/wiki/Almost_Human_(TV_series)) isn't 
 
 [Carl in Starship Troopers](http://starshiptroopers.wikia.com/wiki/Carl_Jenkins_(film))
 
-Nov 5, 2013
+*Nov 5, 2013*
 
 
 
 
 ## Episode 18: Shows That Exist...Because 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit18.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit18.mp3)
 
 [Sleepy Hollow](http://en.wikipedia.org/wiki/Sleepy_Hollow_(TV_series))
@@ -564,20 +570,30 @@ Nov 5, 2013
 
 [Birds of Prey](http://en.wikipedia.org/wiki/Birds_of_Prey_(TV_series))
 
-Oct 28, 2013
+*Oct 28, 2013*
 
 
 
 ## Episode 17: The Brownlist 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit17.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit17.mp3)
 
-Amber and Tony played Splinter Cell Blacklist. ::sad face::
+Amber and Tony played [Splinter Cell Blacklist](https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Blacklist). ::sad face::
 
-Oct 16, 2013
+*Oct 16, 2013*
 
 
 
 ## Episode 16: Bloody Sequels
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit16.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit16.mp3)
 
 [Magic the Gathering free Xbox Live](http://www.ign.com/articles/2013/09/03/games-with-gold-september-2013-free-magic-2013-and-rainbow-six-vegas)
@@ -588,13 +604,13 @@ Oct 16, 2013
 
 Sequelitis
 
-AC III Ending - BS because there was no interaction
+[AC III Ending](https://www.youtube.com/watch?v=4hLLDdVgfD0) - BS because there was no interaction
 
 [Voldemort bored me](http://www.potterforums.com/post-1724332.html&amp;highlight=)
 
 Ranking on Leaderboards from the sameness
 
-Rope Dart kills in AC III[&nbsp;because Amber is Black](http://en.wikipedia.org/wiki/Lynching_in_the_United_States)
+Rope Dart kills in AC III[because Amber is Black](http://en.wikipedia.org/wiki/Lynching_in_the_United_States)
 
 [Kojima is a dick](http://www.1up.com/features/metal-gear-solid-2-gamings-greatest-con-job)
 
@@ -604,13 +620,18 @@ MGS3 [The End](http://www.youtube.com/watch?v=-kgGaDp3QGw)
 
 [25 years of Madden](http://readingeagle.com/article.aspx?id=510546)
 
-Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
+Episode Music:[Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Sep 16, 2013
+*Sep 16, 2013*
 
 
 
 ## Episode 15: Fun Size
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit15.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit15.mp3)
 
 Short form vs long form storytelling
@@ -633,11 +654,17 @@ Alphas cliffhanger
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Sep 4, 2013
+*Sep 4, 2013*
 
 
 
 ## Episode 14: Riddle Me This, Batman 
+
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit14.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit14.mp3)
 
 Batman V Superman
@@ -666,12 +693,18 @@ Superman Returns continuity
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Aug 25, 2013
+*Aug 25, 2013*
 
 
 
 
-## Episode 13: F\*\cking Fandoms
+## Episode 13: F\*cking Fandoms
+
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit13.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit13.mp3)
 
 Diversity of the Doctor
@@ -699,11 +732,17 @@ Diversity of Fast and the Furious
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
 
-Aug 18, 2013
+*Aug 18, 2013*
 
 
 
-## Episode 12: F\*\ck You, Defiance
+## Episode 12: F\*ck You, Defiance
+
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit12.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit12.mp3 "SIH 12: Fuck You, Defiance")
 
 Multiscreen, multimedia, multiplatform - [Defiance](http://www.defiance.com/en/series/)
@@ -714,12 +753,19 @@ Multiscreen, multimedia, multiplatform - [Defiance](http://www.defiance.com/en/s
 
 [Science](http://www.youtube.com/watch?v=FtotCkyQbPk "Lost Skeleton of Cadavra - Science")
 
-Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
+Episode Music:[Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Aug 9, 2013
+*Aug 9, 2013*
 
 
 ## Episode 11: What!
+
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit11.mp3" type="audio/mpeg">
+</audio>
+
+
 [Download](http://archive.org/download/Salemimhit/salemimhit11.mp3)
 
 [12th Doctor Reveal on Sunday](http://doctorwhotv.co.uk/12th-doctor-revealed-on-sunday-52184.htm)&nbsp; - [Peter Capaldi](http://en.wikipedia.org/wiki/Peter_Capaldi)
@@ -730,10 +776,16 @@ Aug 9, 2013
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Aug 3, 2013
+*Aug 3, 2013*
 
 
 ## Episode 10: Bloop
+
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit10.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit10.mp3 "SIH Episode 10 - Bloop")
 
 There were some audio issues with this one and we had to edit some stuff out of the middle for personal reasons that would have transitioned the sections better. But, we salvaged the bulk of it
@@ -750,30 +802,35 @@ Tiny towns and Countries - [How to Start Your Own Country](http://www.wikihow.co
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Aug 1, 2013
+*Aug 1, 2013*
 
 
 ## Episode 9: Sorry, Superman
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit09.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit09.mp3)
 
 Amber digs [Orange is the New Black](http://en.wikipedia.org/wiki/Orange_Is_the_New_Black) - [Laverne Cox](http://www.lavernecox.com/)
 [Hemlock Grove](http://en.wikipedia.org/wiki/Hemlock_Grove_(TV_series)) was [meh](http://amberspence.org/blog/hemlock-grove-hems-and-haws/) - [vargulf](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CC0QFjAA&amp;url=http%3A%2F%2Fhemlockgrove.wikia.com%2Fwiki%2FVargulf&amp;ei=XWPsUZfrFMfd4AO7zYHQBg&amp;usg=AFQjCNE0aPp6ClpStrRqZOEIXP2e1uFrWg&amp;sig2=ee8Z_mMPGZH_BfkaPmCKpQ&amp;bvm=bv.49478099,d.dmg)
 
-[Hancock deleted scene](http://www.youtube.com/watch?v=A-tcxZ5VOBM)&nbsp;- [Mallrats bonus](http://youtu.be/wqwUdp5-2D8)&nbsp;Amber saw after on Youtube. Her and Brodie differ on idea of possible magnitude of damage.&nbsp;
-
-&nbsp;
-
-<iframe src="//www.youtube.com/embed/iqDCCTCYTNI" frameborder="0"></iframe>
-
-&nbsp;
+[Hancock deleted scene](http://www.youtube.com/watch?v=A-tcxZ5VOBM) - [Mallrats bonus](http://youtu.be/wqwUdp5-2D8) Amber saw after on Youtube. Her and Brodie differ on idea of possible magnitude of damage.
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Jul 21, 2013
+*Jul 21, 2013*
 
 
 
 ## Episode 8: Um...Sharknado
+
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit08.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit08.mp3)
 
 Amber and Tony were going to discuss something useful, but then Amber watched Sharknado.
@@ -784,13 +841,18 @@ Amber and Tony were going to discuss something useful, but then Amber watched Sh
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-*[http://www.theatlanticwire.com/entertainment/2013/07/sharknado-was-only-thing-worth-talking-about-last-night/67109/](http://www.theatlanticwire.com/entertainment/2013/07/sharknado-was-only-thing-worth-talking-about-last-night/67109/)
+*[From The Atlantic Wire](http://www.theatlanticwire.com/entertainment/2013/07/sharknado-was-only-thing-worth-talking-about-last-night/67109/)
 
-Jul 12, 2013
+*Jul 12, 2013*
 
 
 
 ## Episode 7: All Celebrities Hate You
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit07.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit07.mp3)
 
 Amber and Tony discuss dumb things some celebs do and how it seems BSG and Caprica should be consumed separately.
@@ -799,32 +861,47 @@ Amber and Tony discuss dumb things some celebs do and how it seems BSG and Capri
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Jul 4, 2013
+*Jul 4, 2013*
 
 
 
 ## Episode 6: We Heart Orphan Black
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit06.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit06.mp3)
 
 Amber and Tony talk about Xbox 1 hilarity and why [Orphan Black](http://www.bbcamerica.com/orphan-black/) is the best show on TV.
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Jul 3, 2013
+*Jul 3, 2013*
 
 
 
 ## Episode 5: Wells V. Tapping 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit05.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit05.mp3)
 
-[Stargate SG-1](http://en.wikipedia.org/wiki/Stargate_SG-1), [Star Trek](http://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture), [favorite stars](http://en.wikipedia.org/wiki/Amanda_Tapping), hell yeah.&nbsp;
+[Stargate SG-1](http://en.wikipedia.org/wiki/Stargate_SG-1), [Star Trek](http://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture), [favorite stars](http://en.wikipedia.org/wiki/Amanda_Tapping), hell yeah.
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Jun 18, 2013
+*Jun 18, 2013*
 
 
 ## Episode Four: Are you sure the light is off?
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit04.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit04.mp3)
 
 Amber and Tony discuss the [Xbox One](http://www.xbox.com/en-US/xboxone/meet-xbox-one) without ever referencing it by name. Also, the uncanny valley and realism in games creeps Amber out.
@@ -837,23 +914,29 @@ Amber and Tony discuss the [Xbox One](http://www.xbox.com/en-US/xboxone/meet-xbo
 
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
-Jun 5, 2013
+*Jun 5, 2013*
 
 
 
 
 
 ## Episode Three: Better Than Thor
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit03.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit03.mp3)
 
 Amber and Tony chat about sequels, reboots, and teenagers.
 
-*In the episode Tony referred to Apokolips the planet when he meant [Darkseid](http://en.wikipedia.org/wiki/Darkseid).&nbsp;
+*In the episode Tony referred to Apokolips the planet when he meant [Darkseid](http://en.wikipedia.org/wiki/Darkseid). 
 
 [Thor: Hammer of the Gods](http://en.wikipedia.org/wiki/Hammer_of_the_Gods_(2009_film))
 
 Episode Music:[ Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
-Apr. 27, 2013
+
+*Apr. 27, 2013*
 
 
 
@@ -869,10 +952,15 @@ Apr. 27, 2013
 > 
 > — Amber Spence (@ambernspence) [March 18, 2013](https://twitter.com/ambernspence/status/313445713373708288)
 
-Apr. 11, 2013
+*Apr. 11, 2013*
 
 
 ## Episode Two : Assassins of the Caribbean 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit02.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit02.mp3)
 
 Amber and Tony discuss [Assassin's Creed 4: Black Flag](http://en.wikipedia.org/wiki/Assassin) and issues they had with the other recent AC games.&nbsp;
@@ -881,27 +969,32 @@ This thing is full of AC spoilers.
 
 Episode music: [Loveshadow - The Sweetest Sin](http://ccmixter.org/files/Loveshadow/14582)
 
-Apr. 11, 2013
+*Apr. 11, 2013*
 
 
 
 
 ## Episode One: No Aggro
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit01.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit01.mp3)
 
 Amber and Tony chat about their feelings on [Army of Two: The Devil's Cartel](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;cad=rja&amp;ved=0CEIQFjAB&amp;url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArmy_of_Two%3A_The_Devil)
 
-This episode does contain spoilers for the game.&nbsp;
+This episode does contain spoilers for the game.
 
 Episode music :[ Loveshadow - The Sweetest Sin](http://ccmixter.org/files/Loveshadow/14582)
 
-Apr. 6, 2013
+*Apr. 6, 2013*
 
 
-# Hey there! Welcome to the home of Salem I’m Hit.
+## Hey there! Welcome to the home of Salem I’m Hit.
 
 The show title comes from a running gag between Amber and Tony when they played the first couple of Army of Two games. Tony was more run and gun and Amber was the cautious one which led to the Rios character screaming “Salem, I’m Hit!” many, many times.
 
 Every time something offends or bothers Tony, he still says it - then he says a bit more…
 
-Apr. 6, 2013
+*Apr. 6, 2013*
