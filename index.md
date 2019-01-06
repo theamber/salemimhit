@@ -103,6 +103,11 @@ Amber, Tony, and Shu laugh at dragons, zombies, and [Torchwood Miracle Day](http
 
 
 ## Episode 206: Made You Look
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit206.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit206.mp3)&nbsp; 
 
 Amber and Tony discuss the Battfleck Daredevil "coincidence" and then ramble about Bats and Daredevils. Keaton vs Conroy 2016.
@@ -117,23 +122,28 @@ Amber and Tony discuss the Battfleck Daredevil "coincidence" and then ramble abo
 
 
 ## Episode 205: Can’t Get Fired
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit205.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit205.mp3)
 
 Amber and Tony discuss superheroes and the other guys. 
 
-Superjail parade of violence - http://www.adultswim.com/videos/playlists/parade-of-violence/the-mutant-menace/
+[Superjail parade of violence](http://www.adultswim.com/videos/playlists/parade-of-violence/the-mutant-menace/)
 
 Why do we have to keep seeing his parents die in the first 5 minutes?
-Batmans parents dying the supercut - https://www.youtube.com/watch?v=jtpxEmInvfg
+[Batmans parents dying the supercut](https://www.youtube.com/watch?v=jtpxEmInvfg)
 
 Gotham dont give a damn about batman
 
-Garrison trying to get fired - http://southpark.cc.com/clips/153736/lemmiwinks-adventure-begins
+[Garrison trying to get fired](http://southpark.cc.com/clips/153736/lemmiwinks-adventure-begins)
 
-The superman episode - http://salemimhit.tumblr.com/post/56090807737/episode-9-sorry-superman-download-amber-digs
+[The superman episode](http://archive.org/download/Salemimhit/salemimhit09.mp3)
 
-Smallville brought to you by ___ - http://smallville.wikia.com/wiki/Product_placement
-Acuvue to the rescue - https://www.youtube.com/watch?v=9mh6TNBwfhw
+[Smallville brought to you by ___ ](http://smallville.wikia.com/wiki/Product_placement)
+[Acuvue to the rescue](https://www.youtube.com/watch?v=9mh6TNBwfhw)
 
 *Jan 13, 2016*
 
@@ -141,6 +151,11 @@ Acuvue to the rescue - https://www.youtube.com/watch?v=9mh6TNBwfhw
 
 
 ## Episode 204: Fake Fans
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit204.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit204.mp3)
 
 Amber and Tony discuss the nonexistence of fake fans, and then ramble.
@@ -148,13 +163,13 @@ Amber and Tony discuss the nonexistence of fake fans, and then ramble.
 SW: The Force Awakens
 Old Who vs New Who
 
-Amy Acker Rocks - [http://www.imdb.com/name/nm0009918/](http://www.imdb.com/name/nm0009918/)
+[Amy Acker Rocks](http://www.imdb.com/name/nm0009918/)
 
-Suits is the nerdiest show on television
+[Suits](https://www.imdb.com/title/tt1632701/) is the nerdiest show on television
 
-Nostalgia Critic helped me see the light on the prequels - [https://www.youtube.com/watch?v=buXz4BYS8kw](https://www.youtube.com/watch?v=buXz4BYS8kw)
+[Nostalgia Critic helped me see the light on the prequels](https://www.youtube.com/watch?v=buXz4BYS8kw)
 
-Sith Jar Jar - [https://www.youtube.com/results?search_query=sith+jar+jar](https://www.youtube.com/results?search_query=sith+jar+jar)
+[Sith Jar Jar](https://www.youtube.com/results?search_query=sith+jar+jar)
 *Not Grevious -&gt; Dooku
 
 *Jan 7, 2016*
@@ -163,15 +178,20 @@ Sith Jar Jar - [https://www.youtube.com/results?search_query=sith+jar+jar](https
 
 
 ## Episode 203: The Crushing Hand of Disappointment
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit203.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit203.mp3)
 
 Some stuff just sucks, we know you also feel our pain. 
 
-The Shenmue cat - [https://www.youtube.com/watch?v=C5V_KAQa-hI](https://www.youtube.com/watch?v=C5V_KAQa-hI)
+[The Shenmue cat](https://www.youtube.com/watch?v=C5V_KAQa-hI)
 
-Amber’s Sucker Punch Review - [http://amberspence.org/blog/swigs-of-sucker-punch/](http://amberspence.org/blog/swigs-of-sucker-punch/)
+[Amber’s Sucker Punch Review](http://amberspence.org/blog/swigs-of-sucker-punch/)
 
-[God of War 3 Extras: Motion Capture - https://www.youtube.com/watch?v=g0eCpEEkwf0](http://archive.org/download/SalemImHit2/salemimhit203.mp3)
+[God of War 3 Extras: Motion Capture](https://www.youtube.com/watch?v=g0eCpEEkwf0)
 
 *Dec 15, 2015*
 
@@ -179,15 +199,18 @@ Amber’s Sucker Punch Review - [http://amberspence.org/blog/swigs-of-sucker-pun
 
 
 ## Episode 202: Machine Rambles
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit202.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit202.mp3)
 
 We still welcome our new robot overlords, but we’re just whiny. 
 
-Code for hooker in Affleck’s trailer.
-[http://www.urbandictionary.com/define.php?term=10-82](http://www.urbandictionary.com/define.php?term=10-82)
+[Code for hooker in Affleck’s trailer](http://www.urbandictionary.com/define.php?term=10-82)
 
-Buzzfeed phone guy
-[http://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr#.yuMyVGWyY](http://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr#.yuMyVGWyY)
+[Buzzfeed phone guy](http://www.buzzfeed.com/mjs538/i-followed-my-stolen-iphone-across-the-world-became-a-celebr#.yuMyVGWyY)
 
 *Nov 17, 2015*
 
@@ -195,14 +218,18 @@ Buzzfeed phone guy
 
 
 ## Episode 201: Whispers 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit201.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit201.mp3)
 
 Amber and Tony discuss the whispervoice.
 
-[http://www.destructoid.com/brown-hair-and-stubble-the-new-face-of-modern-videogames-178442.phtml](http://www.destructoid.com/brown-hair-and-stubble-the-new-face-of-modern-videogames-178442.phtml)
+[Brown Hair and Stubble is the New Black](http://www.destructoid.com/brown-hair-and-stubble-the-new-face-of-modern-videogames-178442.phtml)
 
-dying light vs dead island
-https://www.youtube.com/watch?v=ud88RzwyfvI
+[Dying Light vs Dead Island](https://www.youtube.com/watch?v=ud88RzwyfvI)
 
 *Nov 10, 2015*
 
@@ -222,19 +249,21 @@ I'm not sure about whether I'll continue the show solo or change up the format a
 
 ## Episode 26: Because it's the Future 
 
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit26.mp3" type="audio/mpeg">
+</audio>
+
 [** Download**](http://archive.org/download/SalemImHit2/salemimhit26.mp3)
 
 **The Back to the Future II rewatch**
 
 Seriously, We totally welcome our robot overlords.&nbsp;
 
-Holomax Jaws 19&nbsp;
-
-http://backtothefuture.wikia.com/wiki/Jaws_19
+[Holomax Jaws 19](http://backtothefuture.wikia.com/wiki/Jaws_19)
 
 http://www.youtube.com/watch?v=btaG034fJgg
 
-The Two Tie Initiative is Real
+[The Two Tie Initiative is Real](http://backtothefuture.wikia.com/wiki/Multiple_ties)
 
 Racist 80s crap
 
@@ -244,91 +273,67 @@ Drop down cupboards are stupid
 
 Flying cars ==! traffic
 
-Amber wasn't paying attention Mr. Fusion only runs the time circuits, not the whole car.&nbsp;
+Amber wasn't paying attention [Mr. Fusion](http://backtothefuture.wikia.com/wiki/Mr._Fusion) only runs the time circuits, not the whole car.
 
-http://backtothefuture.wikia.com/wiki/Mr._Fusion
+[Marty McFly](https://www.themarysue.com/the-horrible-treatment-and-missed-opportunity-of-jennifer-in-back-to-the-future-part-ii/) and [Peter Petrelli](http://whatculture.com/tv/10-tv-plot-threads-that-were-never-resolved?page=5) are dicks to women
 
-Marty McFly and Peter Petrelli are dicks to women
+[Brought to you by Carl's Jr](http://www.youtube.com/watch?v=svJXd9xxhv8)
 
-http://backtothefuture.wikia.com/wiki/Jennifer_Parker
+[Billy Zane was in it](http://backtothefuture.wikia.com/wiki/Match)
 
-http://heroeswiki.com/Caitlin
+[Alternate Martys are screwed](http://ask.metafilter.com/191094/Is-Marty-McFly-Prime-The-Destroyer-of-Worlds-Yay-or-Nay)
+[Very Screwed](http://www.cracked.com/video_18543_the-horrifying-deleted-timeline-from-back-to-future.html)
 
-Brought to you by Carl's Jr
+Marty looks a lot like...[Calvin/Marty](http://vimeo.com/78666174)
+[Bonus](http://www.cracked.com/video_18203_why-back-to-future-secretly-horrifying.html)
 
-http://www.youtube.com/watch?v=svJXd9xxhv8
+[Other Timeline nonsense](http://scifi.stackexchange.com/questions/1500/back-to-the-future-flaw-why-dont-martys-parents-recognize-him-in-the-new-fut)
 
-Billy Zane was in it
+[Doc's bankroll briefcase](http://backtothefuture.wikia.com/wiki/Money_suitcase)
 
-http://backtothefuture.wikia.com/wiki/Match
-
-Alternate Martys are screwed
-
-http://ask.metafilter.com/191094/Is-Marty-McFly-Prime-The-Destroyer-of-Worlds-Yay-or-Nay
-
-http://www.cracked.com/video_18543_the-horrifying-deleted-timeline-from-back-to-future.html
-
-Marty looks a lot like...Calvin/Marty
-
-http://vimeo.com/78666174
-
-http://www.cracked.com/video_18203_why-back-to-future-secretly-horrifying.html
-
-http://www.denofgeek.us/movies/16532/the-plot-holes-and-paradoxes-of-the-back-to-the-future-trilogy
-
-Other Timeline nonsense
-
-http://scifi.stackexchange.com/questions/1500/back-to-the-future-flaw-why-dont-martys-parents-recognize-him-in-the-new-fut
-
-Doc's bankroll briefcase
-
-Cool ass Doc adventures you should watch
-
-http://video.adultswim.com/rick-and-morty/
+[Cool ass Doc adventures you should watch](http://video.adultswim.com/rick-and-morty/)
 
 Who needs doorknobs?
 
-Mar 13, 2014
+*Mar 13, 2014*
 
 
 ## Episode 25: Are You Sure This Time?
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit25.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit25.mp3)
 
 First person shooters
 
-Assassin's Creed III Liberation HD
+[Assassin's Creed III Liberation HD](http://www.gamespot.com/reviews/assassin-s-creed-iii-liberation-hd-review/1900-6415643/)
 
-http://www.gamespot.com/reviews/assassin-s-creed-iii-liberation-hd-review/1900-6415643/
+[Fable Anniversary](http://www.ign.com/articles/2014/02/03/fable-anniversary-review)
 
-Fable Anniversary
+[Robocop remake](http://www.youtube.com/watch?v=INmtQXUXez8)
 
-http://www.ign.com/articles/2014/02/03/fable-anniversary-review
-
-Robocop remake
-
-http://www.youtube.com/watch?v=INmtQXUXez8
-
-Green screen mostly sucks
-
-http://www.blastr.com/2013-11-19/what-made-ian-mckellen-so-upset-he-almost-quit-hobbit-trilogy&nbsp;
+[Green screen mostly sucks](http://www.blastr.com/2013-11-19/what-made-ian-mckellen-so-upset-he-almost-quit-hobbit-trilogy)
 
 Why are movies so expensive?
 
-Eternal Sunshine effects
+[Eternal Sunshine effects](http://www.youtube.com/watch?v=II0er7TmkS8)
 
-http://www.youtube.com/watch?v=II0er7TmkS8
+[More Effects](http://www.cracked.com/article_19140_8-movie-special-effects-you-wont-believe-arent-cgi.html)
 
-http://www.cracked.com/article_19140_8-movie-special-effects-you-wont-believe-arent-cgi.html
+[Tom Thumb 1958](http://www.imdb.com/title/tt0052427/)
 
-tom thumb 1958
-
-http://www.imdb.com/title/tt0052427/
-
-Mar 3, 2014
+*Mar 3, 2014*
 
 
 
 ## Episode 24: Nobody Puts Baby in the Corner 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/SalemImHit2/salemimhit24.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/SalemImHit2/salemimhit24.mp3)
 
 Leonard got Star Wars wrong
@@ -337,27 +342,27 @@ The GPS is trying to kill you
 
 BBT ships
 
-The dog gets an outfit project runway
-http://en.wikipedia.org/wiki/Project_Runway_(season_3)
+[The dog gets an outfit project runway](http://en.wikipedia.org/wiki/Project_Runway_(season_3))
 
 reality shows a go go
 
 Adult Swim
 
-Korgoth of Barbaria
+[Korgoth of Barbaria](http://www.dailymotion.com/video/xnfdy_korgoth-the-barbarian-01-pilot_fun)
 
-http://www.dailymotion.com/video/xnfdy_korgoth-the-barbarian-01-pilot_fun
-
-Dave the Barbarian&nbsp;
-
-http://en.wikipedia.org/wiki/Dave_the_Barbarian
+[Dave the Barbarian](http://en.wikipedia.org/wiki/Dave_the_Barbarian)
 
 More Star Wars
 
-Feb 26, 2014
+*Feb 26, 2014*
 
 
-## Episode 23: 13 13 13&nbsp; -&nbsp;
+## Episode 23: 13 13 13
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit23.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit23.mp3)
 
 We cranked the nerd up to 13 this time.
@@ -368,7 +373,7 @@ Doctor Who Christmas Specials
 
 Timey Wimey?
 
-The Unseen Awesome&nbsp;
+The Unseen Awesome
 
 Useless revisions to cover your ass
 
@@ -380,40 +385,33 @@ Fucking half seasons
 
 13th Doctor
 
-11's regeneration feels like spikes death
+[11's regeneration](http://www.youtube.com/watch?v=xYAc-012gRU) feels like [Spikes death](http://www.youtube.com/watch?v=Oc1HGXb5xo8)
 
-http://www.youtube.com/watch?v=xYAc-012gRU
+[Misfits rough finale](http://www.denofgeek.com/tv/misfits/28584/misfits-series-5-finale-review)
 
-http://www.youtube.com/watch?v=Oc1HGXb5xo8
-
-Misfits rough finale&nbsp;
-
-http://www.denofgeek.com/tv/misfits/28584/misfits-series-5-finale-review
-
-Jan 17, 2014
+*Jan 17, 2014*
 
 
 
-## Episode 22: That's Not Good Enough Guys - 
+## Episode 22: That's Not Good Enough Guys 
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit22.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit22.mp3)
 
 Sorry We Suck
 
-Gal Gadot as Wonder Woman
-[http://herocomplex.latimes.com/movies/gal-gadot-cast-as-wonder-woman-comics-world-reacts-on-twitter/#/0](http://herocomplex.latimes.com/movies/gal-gadot-cast-as-wonder-woman-comics-world-reacts-on-twitter/#/0)
+[Gal Gadot as Wonder Woman](http://herocomplex.latimes.com/movies/gal-gadot-cast-as-wonder-woman-comics-world-reacts-on-twitter/#/0)
 
-[http://www.haaretz.com/culture/arts-leisure/1.566335](http://www.haaretz.com/culture/arts-leisure/1.566335)
-
-&nbsp;
+[Gal Gadot Responds to Criticism](http://www.haaretz.com/culture/arts-leisure/1.566335)
 
 WHERE THE FUCK IS THE WONDERWOMAN MOVIE!?!
 
-Gina Torres is Wonder Woman
-[http://www.buzzfeed.com/donnad/dear-hollywood-cast-gina-torres-as-wonder-woman](http://www.buzzfeed.com/donnad/dear-hollywood-cast-gina-torres-as-wonder-woman)
+[Gina Torres is Wonder Woman](http://www.buzzfeed.com/donnad/dear-hollywood-cast-gina-torres-as-wonder-woman)
 
-Wonder Woman animated movie was grrrreat&nbsp;
-
-http://en.wikipedia.org/wiki/Wonder_Woman_(2009_film)
+[Wonder Woman animated movie was grrrreat;](http://en.wikipedia.org/wiki/Wonder_Woman_(2009_film))
 
 Tony is why we can't have nice things
 
@@ -421,54 +419,42 @@ Meanwhile back in superhero junk rant land
 
 Female driven movies rock
 
-Jack Bristow will shoot you in the face
+Jack Bristow will [shoot you](http://www.youtube.com/watch?v=HndMKYnJgxM) [in the](
+http://www.youtube.com/watch?v=D3Zxtrlr82k) [face](http://www.youtube.com/watch?v=JrXhPJD2G-M)
 
-http://www.youtube.com/watch?v=HndMKYnJgxM
+[Killer Women](http://www.youtube.com/watch?v=ceBqNCjeyzY)
 
-http://www.youtube.com/watch?v=D3Zxtrlr82k
-
-http://www.youtube.com/watch?v=JrXhPJD2G-M
-
-Killer Women - http://www.youtube.com/watch?v=ceBqNCjeyzY
-
-The Black Keys - Howlin For You&nbsp;
-
-http://www.youtube.com/watch?v=TLSpj7q6_mM
+[The Black Keys - Howlin For You](http://www.youtube.com/watch?v=TLSpj7q6_mM)
 
 Back to superhero junk
 
-Amazons on Charmed
-
-http://charmed.wikia.com/wiki/Valhalley_of_the_Dolls,_Part_1
+[Amazons on Charmed](http://charmed.wikia.com/wiki/Valhalley_of_the_Dolls,_Part_1)
 
 Meh on Superman
 
-Jan 13, 2014
+*Jan 13, 2014*
 
 
 
 ## Episode 21: Launchtime (The Munchies)
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit21.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit21.mp3)
 
-Next Gen Launch issues
+[Next Gen Launch issues](http://www.ign.com/articles/2013/11/14/broken-playstation-4-systems)
 
-http://www.ign.com/articles/2013/11/14/broken-playstation-4-systems
-
-Throwback thoughts on older consoles and tvs and vcrs
-
-http://en.wikipedia.org/wiki/Videocassette_recorder
+[Throwback thoughts on older consoles and tvs and vcrs](http://en.wikipedia.org/wiki/Videocassette_recorder)
 
 Get off our lawns
 
 Ok now Amber will have to watch Sleepy Hollow
 
-PS4 games are definitely pretty though
+[PS4 games are definitely pretty though](http://www.youtube.com/watch?v=S1D2BOnjgVE)
 
-http://www.youtube.com/watch?v=S1D2BOnjgVE
-
-Back to the Future 2
-
-http://gawker.com/5667202/11-things-from-back-to-the-future-ii-that-actually-came-true-and-3-that-havent-yet
+[Back to the Future 2](http://gawker.com/5667202/11-things-from-back-to-the-future-ii-that-actually-came-true-and-3-that-havent-yet)
 
 PS3 vs Xbox 360 graphical differences that we hope do not continue&nbsp;
 
@@ -488,6 +474,11 @@ Jan 2, 2014
 
 
 ## Episode 20: Sexy Monsters
+
+<audio controls="controls">
+	<source src="http://archive.org/download/Salemimhit/salemimhit21.mp3" type="audio/mpeg">
+</audio>
+
 [Download](http://archive.org/download/Salemimhit/salemimhit20.mp3)
 
 [Beauty and the Beast](http://en.wikipedia.org/wiki/Beauty_&amp;_the_Beast_(2012_TV_series))
