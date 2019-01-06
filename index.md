@@ -837,8 +837,6 @@ Amber and Tony were going to discuss something useful, but then Amber watched Sh
 
 [Interview with Sharknado writer Thunder Levin](http://io9.com/we-asked-the-writer-of-sharknado-some-very-serious-ques-736131336)
 
-<iframe src="http://www.syfy.com/_utils/video/embed.php?/videos/small/_vid2659154" height="170" frameborder="0"></iframe>
-
 Episode Music:[&nbsp;Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.org/files/snowflake/31091)
 
 *[From The Atlantic Wire](http://www.theatlanticwire.com/entertainment/2013/07/sharknado-was-only-thing-worth-talking-about-last-night/67109/)
