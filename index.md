@@ -1,6 +1,129 @@
 <link href='http://salemimhit.com/feed.xml' rel='alternate' type='application/atom+xml'>
 
 
+## Episode 3.7 - Stuff You Didn't Watch
+
+<audio controls="controls">
+	<source src="https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5b02261621198f0813795f58.mp3" type="audio/mpeg">
+</audio>
+
+
+[Download](https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5b02261621198f0813795f58.mp3)
+
+Amber and Paul discuss things you probably didn’t watch. 
+
+Go watch them now. 
+
+*May 20, 2018*
+
+
+
+
+
+## Episode 3.6 - Jerk Media
+
+<audio controls="controls">
+	<source src="https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5aaff1a0627e02027cf86025.mp3" type="audio/mpeg">
+</audio>
+
+[Download](https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5aaff1a0627e02027cf86025.mp3)
+
+Amber and Paul discuss jerks in movies, games, and the world. 
+
+*Mar 19, 2018*
+
+
+
+
+
+## Episode 3.5 - Ubicreed
+
+<audio controls="controls">
+	<source src="https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5a519d626955955938f1ba87.mp3" type="audio/mpeg">
+</audio>
+
+[Download](https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5a519d626955955938f1ba87.mp3)
+
+Amber and Paul talk about the Assassin’s Creed universe pre-Origins.
+
+Mostly to make Ubisoft jokes.
+
+*Jan 7, 2018*
+
+
+
+
+
+## Episode 3.4 - Thank You Orphan Black
+
+<audio controls="controls">
+	<source src="https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/59962526738a868443035d3f.mp3" type="audio/mpeg">
+</audio>
+
+[Download](https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/59962526738a868443035d3f.mp3)
+
+Amber and Tony share thoughts on the final season of Orphan Black.
+
+Crew of Orphan Black, you guys are great and we hope you get to continue doing great things. 
+
+
+*Aug 17, 2017*
+
+
+
+
+
+## Episode 3.3 - Valerian and the City of Hot Garbage
+
+<audio controls="controls">
+	<source src="https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5989146d169e4a172309fd9b.mp3" type="audio/mpeg">
+</audio>
+
+[Download](https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/5989146d169e4a172309fd9b.mp3)
+
+Amber and Paul suffered through Valerian and the City of A Thousand Planets.
+
+Please don't follow in our footsteps.
+
+*Aug 7, 2017*
+
+
+
+
+
+## Episode 3.2 - Orphans Back in the Black
+
+<audio controls="controls">
+	<source src="http://feed.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/597bcab1f7c9e88e5aeab59f.mp3" type="audio/mpeg">
+</audio>
+
+[Download](http://feed.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/597bcab1f7c9e88e5aeab59f.mp3)
+
+
+Amber and Tony share thoughts on the return of Orphan Black.
+
+*Jul 28, 2017*
+
+
+
+
+## Episode 3.1: Wonderwoman Lives
+
+<audio controls="controls">
+	<source src="https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/594739cafa0ee0a85ab974b9.mp3" type="audio/mpeg">
+</audio>
+
+
+
+Amber and Tony finally got to see the live action Wonderwoman movie of their dreams!!! And it was GOOOOOOOD!!!!
+
+[-Download-](https://app.pippa.io/public/streams/59472a13808b7ecc6dfaf27e/episodes/594739cafa0ee0a85ab974b9.mp3)
+
+
+*Jun 19, 2017*
+
+
+
 
 ## The Lost Episode: RE : Retcon 
 
@@ -946,7 +1069,7 @@ Episode Music:[ Snowflake - Dance in the Rain (Breaking Down)](http://ccmixter.o
 
 
 > Fans of the series already know and love Shao Jun from Embers. But fuck that - PIRATES! [#ac4blackflagissomeolbullshit](https://twitter.com/search/%23ac4blackflagissomeolbullshit)
-> 
+
 > — Amber Spence (@ambernspence) [March 18, 2013](https://twitter.com/ambernspence/status/313441967914774528)
 
 
@@ -993,7 +1116,9 @@ Episode music :[ Loveshadow - The Sweetest Sin](http://ccmixter.org/files/Lovesh
 *Apr. 6, 2013*
 
 
-## Hey there! Welcome to the home of Salem I’m Hit.
+## Hey there! 
+
+# Welcome to the home of Salem, I’m Hit.
 
 The show title comes from a running gag between Amber and Tony when they played the first couple of Army of Two games. Tony was more run and gun and Amber was the cautious one which led to the Rios character screaming “Salem, I’m Hit!” many, many times.
 
