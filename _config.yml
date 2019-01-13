@@ -2,8 +2,12 @@ theme: jekyll-theme-minimal
 
 name: Salem, I'm Hit!
 description: > # this means to ignore newlines until "baseurl:"
-  Amber and Tony Have mics and we are sorry <a target="_blank" href="http://www.makersacademy.com">
-  Makers Academy</a>
+  Amber and Tony Have mics and we are sorry 
+  <a target="_blank" https://itunes.apple.com/us/podcast/salem-im-hit/id674304763?mt=2&amp;ign-mpt=uo%3D4">
+  iTunes</a>
+   <a target="_blank" http://www.stitcher.com/podcast/salem-im-hit">
+  Stitcher</a>
+   
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: http://salemimhit.com
 twitter_username: salemimhit
