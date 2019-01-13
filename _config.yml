@@ -111,7 +111,7 @@ rss :
     
     
 analytics :
-  enabled : false
+  enabled : true
   google_analytics :
     enabled : false
     tracking_id : UA-132397321-1   
