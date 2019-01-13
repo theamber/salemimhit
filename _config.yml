@@ -11,8 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: http://salemimhit.com
 twitter_username: salemimhit
-<a target="_blank" http://www.stitcher.com/podcast/salem-im-hit">
-  Stitcher</a>
+
 favicon :
   enabled : true
   local :
