@@ -10,7 +10,7 @@ Amber and Tony Have mics and we are sorry
 ### Playing Games:
 [Twitch](http://www.twitch.tv/salemimhit)  
 [YouTube](https://www.youtube.com/user/salemimhit)  
-***
+---
 
 ## Episode 3.7 - Stuff You Didn't Watch
 
