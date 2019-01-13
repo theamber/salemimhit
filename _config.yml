@@ -15,6 +15,7 @@ url: http://salemimhit.com
 twitter_username: salemimhit
 
 author : Amber Spence
+paginate : 10
 
 favicon :
   enabled : true
@@ -27,5 +28,29 @@ favicon :
     full_url : https://res.cloudinary.com/dxqlm0d3h/image/upload/v1547325655/favicon.ico
     type : ico
 
+sections:
+  brief_bio :
+    enabled : true
+    image :
+      enabled : false
+      url : false
+    content :
+      enabled : true
+    social_links :
+      enabled : true
+    github_projects :
+      enabled : false
+  social_links :
+    enabled : false
+  github_projects :
+    enabled : false
+  external_links :
+    enabled : true
+  archive :
+    enabled : false
+  categories :
+    enabled : false
+  tags :
+    enabled : false
 
 
