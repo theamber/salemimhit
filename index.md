@@ -3,13 +3,13 @@
 
 Amber and Tony Have mics and we are sorry
 
-[iTunes](https://itunes.apple.com/us/podcast/salem-im-hit/id674304763?mt=2&amp;ign-mpt=uo%3D4)
-[Stitcher](http://www.stitcher.com/podcast/salem-im-hit)
-[Twitter](http://twitter.com/salemimhit)
+[iTunes](https://itunes.apple.com/us/podcast/salem-im-hit/id674304763?mt=2&amp;ign-mpt=uo%3D4)  
+[Stitcher](http://www.stitcher.com/podcast/salem-im-hit)  
+[Twitter](http://twitter.com/salemimhit)  
 
 ### Playing Games:
-[Twitch](http://www.twitch.tv/salemimhit)
-[YouTube](https://www.youtube.com/user/salemimhit)
+[Twitch](http://www.twitch.tv/salemimhit)  
+[YouTube](https://www.youtube.com/user/salemimhit)  
 ***
 
 ## Episode 3.7 - Stuff You Didn't Watch
