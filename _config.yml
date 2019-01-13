@@ -8,6 +8,16 @@ description: > # this means to ignore newlines until "baseurl:"
 url: http://salemimhit.com
 twitter_username: salemimhit
 
+favicon :
+  enabled : true
+  local :
+    enabled : true
+    partial_url : false
+    type : false
+  remote :
+    enabled : false
+    full_url : https://res.cloudinary.com/dxqlm0d3h/image/upload/v1547325655/favicon.ico
+    type : ico
 
 
 
