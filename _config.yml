@@ -54,3 +54,65 @@ sections:
     enabled : false
 
 
+social_links :
+  follow_name : Me
+  links :
+    - link :
+      enabled : false
+      name : Facebook
+      font_awesome_icon : icon-facebook
+      url : https://www.facebook.com/
+    - link :
+      enabled : false
+      name : GitHub
+      font_awesome_icon : icon-github-alt
+      url : https://github.com/
+    - link :
+      enabled : false
+      name: Google+
+      font_awesome_icon : icon-google-plus
+      url : https://plus.google.com/
+    - link :
+      enabled : false
+      name : Linkedin
+      font_awesome_icon : icon-linkedin
+      url : http://www.linkedin.com/
+    - link :
+      enabled : false
+      font_awesome_icon : icon-pinterest
+      name : Pinterest
+      url : http://www.pinterest.com
+    - link :
+      enabled : true
+      name : Twitter
+      font_awesome_icon : icon-twitter
+      url : https://www.twitter.com/salemimhit
+      
+      
+  font_awesome :
+  enabled : true
+  css : font-awesome.min.css
+
+
+rss :
+  enabled : true
+  managing_editor :
+    enabled : false
+    managing_editor : false
+  webmaster :
+    enabled : false
+    webmaster : false
+  ttl :
+    enabled : true
+    ttl : 300
+  image :
+    enabled : false
+    image : false
+    
+    
+analytics :
+  enabled : false
+  google_analytics :
+    enabled : false
+    tracking_id : UA-132397321-1   
+
