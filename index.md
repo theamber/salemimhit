@@ -1,10 +1,7 @@
 <link href='http://salemimhit.com/feed.xml' rel='alternate' type='application/atom+xml'>
 
  ---
-layout : post  
-title : Episode 3.7
-subtitle : Stuff You Didn't Watch
----
+
 
 ## Episode 3.7 - Stuff You Didn't Watch
 
@@ -23,11 +20,7 @@ Go watch them now.
 
 
 
----
-layout : post  
-title : Episode 3.6
-subtitle : Jerk Media
----
+
 
 ## Episode 3.6 - Jerk Media
 
