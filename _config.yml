@@ -77,11 +77,11 @@ notice : false
 favicon :
   enabled : true
   local :
-    enabled : true
+    enabled : false
     partial_url : false
     type : false
   remote :
-    enabled : false
+    enabled : true
     full_url : https://res.cloudinary.com/dxqlm0d3h/image/upload/v1547325655/favicon.ico
     type : ico
 
@@ -166,7 +166,7 @@ favicon :
 #     enabled : true
 sections:
   brief_bio :
-    enabled : true
+    enabled : false
     image :
       enabled : false
       url : false
@@ -177,7 +177,7 @@ sections:
     github_projects :
       enabled : false
   social_links :
-    enabled : false
+    enabled : true
   github_projects :
     enabled : false
   external_links :
@@ -220,9 +220,9 @@ navbar :
   github_projects :
     enabled : false
   social_links :
-    enabled : false
+    enabled : true
   external_links :
-    enabled : false
+    enabled : true
 
 
 # The social links are links to various social networking sites. Although
@@ -579,4 +579,4 @@ analytics :
     enabled : true
     tracking_id : UA-132397321-1
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
