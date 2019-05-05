@@ -92,6 +92,10 @@ social_links :
   font_awesome :
   enabled : true
   css : font-awesome.min.css
+  
+  jquery:
+  enabled : true
+  src : jquery-1.9.1.min.js
 
 
 rss :
