@@ -25,7 +25,7 @@
 # author : Dereck Curry
 name : Salem, I'm Hit!
 brand : Salem, I'm Hit!
-description: ...
+description: Putting the Trash in Art
 url : http://salemimhit.com
 email : salemimhit@gmail.com
 author: Amber Spence
@@ -77,13 +77,13 @@ notice : false
 favicon :
   enabled : true
   local :
-    enabled : false
-    partial_url : false
-    type : false
-  remote :
     enabled : true
-    full_url : https://res.cloudinary.com/dxqlm0d3h/image/upload/v1547325655/favicon.ico
+    partial_url : /img/salemimhitlogosmall.ico
     type : ico
+  remote :
+    enabled : false
+    full_url : false
+    type : false
 
 
 # These are the sections of on the right hand column of the page (or at the
@@ -166,18 +166,18 @@ favicon :
 #     enabled : true
 sections:
   brief_bio :
-    enabled : false
+    enabled : true
     image :
       enabled : false
       url : false
     content :
       enabled : true
     social_links :
-      enabled : true
+      enabled : false
     github_projects :
       enabled : false
   social_links :
-    enabled : true
+    enabled : false
   github_projects :
     enabled : false
   external_links :
@@ -220,9 +220,9 @@ navbar :
   github_projects :
     enabled : false
   social_links :
-    enabled : true
+    enabled : false
   external_links :
-    enabled : true
+    enabled : false
 
 
 # The social links are links to various social networking sites. Although
@@ -578,5 +578,3 @@ analytics :
   google_analytics :
     enabled : true
     tracking_id : UA-132397321-1
-
-theme: jekyll-theme-tactile
