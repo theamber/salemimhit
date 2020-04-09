@@ -578,3 +578,5 @@ analytics :
   google_analytics :
     enabled : true
     tracking_id : UA-132397321-1
+
+theme: jekyll-theme-minimal
