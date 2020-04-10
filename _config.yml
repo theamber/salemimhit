@@ -212,11 +212,11 @@ sections:
 #     enabled : false
 navbar :
   archive :
-    enabled : true
+    enabled : false
   categories :
-    enabled : true
+    enabled : false
   tags :
-    enabled : true
+    enabled : false
   github_projects :
     enabled : false
   social_links :
@@ -364,7 +364,7 @@ github_projects :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
 external_links :
-  header : Elsewhere
+  header : Links
   links :
     - link :
       name : iTunes
@@ -578,5 +578,3 @@ analytics :
   google_analytics :
     enabled : true
     tracking_id : UA-132397321-1
-
-theme: jekyll-theme-minimal
