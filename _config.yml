@@ -26,7 +26,7 @@
 name : Salem, I'm Hit!
 brand : Salem, I'm Hit!
 description: Putting the Trash in Art
-url : http://salemimhit.com
+url : https://salemimhit.com
 email : salemimhit@gmail.com
 author: Amber Spence
 
@@ -371,7 +371,7 @@ external_links :
       url: https://itunes.apple.com/us/podcast/salem-im-hit/id674304763?mt=2&amp;ign-mpt=uo%3D4
     - link :
       name : Stitcher
-      url: http://www.stitcher.com/podcast/salem-im-hit
+      url: https://www.stitcher.com/podcast/salem-im-hit
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both
