@@ -183,7 +183,7 @@ sections:
   external_links :
     enabled : true
   archive :
-    enabled : false
+    enabled : true
   categories :
     enabled : false
   tags :
@@ -212,7 +212,7 @@ sections:
 #     enabled : false
 navbar :
   archive :
-    enabled : false
+    enabled : true
   categories :
     enabled : false
   tags :
